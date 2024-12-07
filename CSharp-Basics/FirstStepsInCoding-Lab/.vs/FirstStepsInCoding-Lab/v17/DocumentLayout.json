@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70DE771F-136B-4339-9061-AD08B447AF83}|09.YardGreening\\09.YardGreening.csproj|d:\\c#\\softuni\\csharp-basics\\firststepsincoding-lab\\09.yardgreening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DE771F-136B-4339-9061-AD08B447AF83}|09.YardGreening\\09.YardGreening.csproj|solutionrelative:09.yardgreening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D26392-52E2-4281-B7EB-C79455A020E4}|08.PetShop\\08.PetShop.csproj|d:\\c#\\softuni\\csharp-basics\\firststepsincoding-lab\\08.petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D26392-52E2-4281-B7EB-C79455A020E4}|08.PetShop\\08.PetShop.csproj|solutionrelative:08.petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102C6C2E-7787-4F0F-B9B7-08D2FE914B69}|07.ProjectsCreation\\07.ProjectsCreation.csproj|d:\\c#\\softuni\\csharp-basics\\firststepsincoding-lab\\07.projectscreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102C6C2E-7787-4F0F-B9B7-08D2FE914B69}|07.ProjectsCreation\\07.ProjectsCreation.csproj|solutionrelative:07.projectscreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDEAAD3-A079-4044-8682-56AE04917054}|06.ConcatenateData\\06.ConcatenateData.csproj|d:\\c#\\softuni\\csharp-basics\\firststepsincoding-lab\\06.concatenatedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDEAAD3-A079-4044-8682-56AE04917054}|06.ConcatenateData\\06.ConcatenateData.csproj|solutionrelative:06.concatenatedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C11A07-0EFC-4D63-9B28-4E13A6DC8254}|05.GreetingByName\\05.GreetingByName.csproj|d:\\c#\\softuni\\csharp-basics\\firststepsincoding-lab\\05.greetingbyname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C11A07-0EFC-4D63-9B28-4E13A6DC8254}|05.GreetingByName\\05.GreetingByName.csproj|solutionrelative:05.greetingbyname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1758B621-1775-4C66-9DFB-4DBAC36F71AD}|04.InchesToCentimeters\\04.InchesToCentimeters.csproj|d:\\c#\\softuni\\csharp-basics\\firststepsincoding-lab\\04.inchestocentimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1758B621-1775-4C66-9DFB-4DBAC36F71AD}|04.InchesToCentimeters\\04.InchesToCentimeters.csproj|solutionrelative:04.inchestocentimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E7B0BE-FCC0-4D2D-8C75-00F636E79C71}|03.RectangleArea\\03.RectangleArea.csproj|d:\\c#\\softuni\\csharp-basics\\firststepsincoding-lab\\03.rectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E7B0BE-FCC0-4D2D-8C75-00F636E79C71}|03.RectangleArea\\03.RectangleArea.csproj|solutionrelative:03.rectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A9EEF-E07F-4ECC-B3C2-C7C8DA66453F}|02.Nums1.10\\02.Nums1.10.csproj|d:\\c#\\softuni\\csharp-basics\\firststepsincoding-lab\\02.nums1.10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A9EEF-E07F-4ECC-B3C2-C7C8DA66453F}|02.Nums1.10\\02.Nums1.10.csproj|solutionrelative:02.nums1.10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDC72B6-E871-4833-8B35-8C2FE923788A}|01.HelloSoftUni\\01.HelloSoftUni.csproj|d:\\c#\\softuni\\csharp-basics\\firststepsincoding-lab\\01.hellosoftuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDC72B6-E871-4833-8B35-8C2FE923788A}|01.HelloSoftUni\\01.HelloSoftUni.csproj|solutionrelative:01.hellosoftuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\09.YardGreening\\Program.cs",
+              "RelativeDocumentMoniker": "09.YardGreening\\Program.cs",
+              "ToolTip": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\09.YardGreening\\Program.cs",
+              "RelativeToolTip": "09.YardGreening\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:43:38.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\08.PetShop\\Program.cs",
+              "RelativeDocumentMoniker": "08.PetShop\\Program.cs",
+              "ToolTip": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\08.PetShop\\Program.cs",
+              "RelativeToolTip": "08.PetShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:42:11.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\07.ProjectsCreation\\Program.cs",
+              "RelativeDocumentMoniker": "07.ProjectsCreation\\Program.cs",
+              "ToolTip": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\07.ProjectsCreation\\Program.cs",
+              "RelativeToolTip": "07.ProjectsCreation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:41:28.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\06.ConcatenateData\\Program.cs",
+              "RelativeDocumentMoniker": "06.ConcatenateData\\Program.cs",
+              "ToolTip": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\06.ConcatenateData\\Program.cs",
+              "RelativeToolTip": "06.ConcatenateData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:40:43.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\05.GreetingByName\\Program.cs",
+              "RelativeDocumentMoniker": "05.GreetingByName\\Program.cs",
+              "ToolTip": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\05.GreetingByName\\Program.cs",
+              "RelativeToolTip": "05.GreetingByName\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:40:04.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\04.InchesToCentimeters\\Program.cs",
+              "RelativeDocumentMoniker": "04.InchesToCentimeters\\Program.cs",
+              "ToolTip": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\04.InchesToCentimeters\\Program.cs",
+              "RelativeToolTip": "04.InchesToCentimeters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:24:56.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\03.RectangleArea\\Program.cs",
+              "RelativeDocumentMoniker": "03.RectangleArea\\Program.cs",
+              "ToolTip": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\03.RectangleArea\\Program.cs",
+              "RelativeToolTip": "03.RectangleArea\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:19:21.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\02.Nums1.10\\Program.cs",
+              "RelativeDocumentMoniker": "02.Nums1.10\\Program.cs",
+              "ToolTip": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\02.Nums1.10\\Program.cs",
+              "RelativeToolTip": "02.Nums1.10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:18:30.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\01.HelloSoftUni\\Program.cs",
+              "RelativeDocumentMoniker": "01.HelloSoftUni\\Program.cs",
+              "ToolTip": "D:\\C#\\SoftUni\\CSharp-Basics\\FirstStepsInCoding-Lab\\01.HelloSoftUni\\Program.cs",
+              "RelativeToolTip": "01.HelloSoftUni\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:17:21.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

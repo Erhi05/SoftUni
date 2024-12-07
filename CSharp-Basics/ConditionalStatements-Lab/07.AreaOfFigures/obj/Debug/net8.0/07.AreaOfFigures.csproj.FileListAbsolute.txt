@@ -1,0 +1,14 @@
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net8.0\07.AreaOfFigures.exe
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net8.0\07.AreaOfFigures.deps.json
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net8.0\07.AreaOfFigures.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net8.0\07.AreaOfFigures.dll
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net8.0\07.AreaOfFigures.pdb
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.dll
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\refint\07.AreaOfFigures.dll
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.pdb
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\ref\07.AreaOfFigures.dll

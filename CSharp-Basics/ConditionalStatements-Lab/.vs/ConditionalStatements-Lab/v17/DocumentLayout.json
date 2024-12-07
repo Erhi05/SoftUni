@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7A63A0-6353-4D50-81B7-3A6D9E2DDB2C}|07.AreaOfFigures\\07.AreaOfFigures.csproj|d:\\softuni\\csharp-basics\\conditionalstatements-lab\\07.areaoffigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7A63A0-6353-4D50-81B7-3A6D9E2DDB2C}|07.AreaOfFigures\\07.AreaOfFigures.csproj|solutionrelative:07.areaoffigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6BB8A0-1DBC-47EA-A65E-E7B970FA7037}|06.SpeedInfo\\06.SpeedInfo.csproj|d:\\softuni\\csharp-basics\\conditionalstatements-lab\\06.speedinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6BB8A0-1DBC-47EA-A65E-E7B970FA7037}|06.SpeedInfo\\06.SpeedInfo.csproj|solutionrelative:06.speedinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454DD11E-A743-49CD-94E7-EAC51D5CA2B7}|05.Number100To200\\05.Number100To200.csproj|d:\\softuni\\csharp-basics\\conditionalstatements-lab\\05.number100to200\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454DD11E-A743-49CD-94E7-EAC51D5CA2B7}|05.Number100To200\\05.Number100To200.csproj|solutionrelative:05.number100to200\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2EB57-AB43-4115-9EA9-8F5649855B26}|04.PasswordGuess\\04.PasswordGuess.csproj|d:\\softuni\\csharp-basics\\conditionalstatements-lab\\04.passwordguess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B2EB57-AB43-4115-9EA9-8F5649855B26}|04.PasswordGuess\\04.PasswordGuess.csproj|solutionrelative:04.passwordguess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0987E06-AC68-4EF2-8C96-458E5888EBCD}|03.EvenOrOdd\\03.EvenOrOdd.csproj|d:\\softuni\\csharp-basics\\conditionalstatements-lab\\03.evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0987E06-AC68-4EF2-8C96-458E5888EBCD}|03.EvenOrOdd\\03.EvenOrOdd.csproj|solutionrelative:03.evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF7EAB7-822A-4D7E-96B2-7425E83F08BB}|02.GreaterNumber\\02.GreaterNumber.csproj|d:\\softuni\\csharp-basics\\conditionalstatements-lab\\02.greaternumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF7EAB7-822A-4D7E-96B2-7425E83F08BB}|02.GreaterNumber\\02.GreaterNumber.csproj|solutionrelative:02.greaternumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D3CB2B-AF10-471B-B308-514114658864}|01.ExcellentResult\\01.ExcellentResult.csproj|d:\\softuni\\csharp-basics\\conditionalstatements-lab\\01.excellentresult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D3CB2B-AF10-471B-B308-514114658864}|01.ExcellentResult\\01.ExcellentResult.csproj|solutionrelative:01.excellentresult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\07.AreaOfFigures\\Program.cs",
+              "RelativeDocumentMoniker": "07.AreaOfFigures\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\07.AreaOfFigures\\Program.cs",
+              "RelativeToolTip": "07.AreaOfFigures\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:25:23.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\06.SpeedInfo\\Program.cs",
+              "RelativeDocumentMoniker": "06.SpeedInfo\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\06.SpeedInfo\\Program.cs",
+              "RelativeToolTip": "06.SpeedInfo\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:18:40.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\05.Number100To200\\Program.cs",
+              "RelativeDocumentMoniker": "05.Number100To200\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\05.Number100To200\\Program.cs",
+              "RelativeToolTip": "05.Number100To200\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:11:56.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\04.PasswordGuess\\Program.cs",
+              "RelativeDocumentMoniker": "04.PasswordGuess\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\04.PasswordGuess\\Program.cs",
+              "RelativeToolTip": "04.PasswordGuess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:08:22.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\03.EvenOrOdd\\Program.cs",
+              "RelativeDocumentMoniker": "03.EvenOrOdd\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\03.EvenOrOdd\\Program.cs",
+              "RelativeToolTip": "03.EvenOrOdd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:05:51.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\02.GreaterNumber\\Program.cs",
+              "RelativeDocumentMoniker": "02.GreaterNumber\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\02.GreaterNumber\\Program.cs",
+              "RelativeToolTip": "02.GreaterNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:03:29.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\01.ExcellentResult\\Program.cs",
+              "RelativeDocumentMoniker": "01.ExcellentResult\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatements-Lab\\01.ExcellentResult\\Program.cs",
+              "RelativeToolTip": "01.ExcellentResult\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:00:03.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net8.0\04.ToyShop.exe
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net8.0\04.ToyShop.deps.json
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net8.0\04.ToyShop.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net8.0\04.ToyShop.dll
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net8.0\04.ToyShop.pdb
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.dll
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\refint\04.ToyShop.dll
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.pdb
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\ref\04.ToyShop.dll

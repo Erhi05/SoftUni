@@ -1,0 +1,14 @@
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\bin\Debug\net8.0\02.BonusScore.exe
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\bin\Debug\net8.0\02.BonusScore.deps.json
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\bin\Debug\net8.0\02.BonusScore.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\bin\Debug\net8.0\02.BonusScore.dll
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\bin\Debug\net8.0\02.BonusScore.pdb
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\obj\Debug\net8.0\02.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\obj\Debug\net8.0\02.BonusScore.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\obj\Debug\net8.0\02.BonusScore.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\obj\Debug\net8.0\02.BonusScore.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\obj\Debug\net8.0\02.BonusScore.dll
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\obj\Debug\net8.0\refint\02.BonusScore.dll
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\obj\Debug\net8.0\02.BonusScore.pdb
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\obj\Debug\net8.0\02.BonusScore.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\02.BonusScore\obj\Debug\net8.0\ref\02.BonusScore.dll

@@ -1,0 +1,14 @@
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.exe
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.deps.json
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.dll
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.pdb
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.dll
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\refint\01.SumSeconds.dll
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.pdb
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\ref\01.SumSeconds.dll

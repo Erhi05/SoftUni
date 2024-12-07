@@ -1,0 +1,14 @@
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net8.0\06.Repainting.exe
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net8.0\06.Repainting.deps.json
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net8.0\06.Repainting.runtimeconfig.json
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net8.0\06.Repainting.dll
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net8.0\06.Repainting.pdb
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net8.0\06.Repainting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net8.0\06.Repainting.AssemblyInfoInputs.cache
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net8.0\06.Repainting.AssemblyInfo.cs
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net8.0\06.Repainting.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net8.0\06.Repainting.dll
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net8.0\refint\06.Repainting.dll
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net8.0\06.Repainting.pdb
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net8.0\06.Repainting.genruntimeconfig.cache
+D:\C#\SoftUni\CSharp-Basics\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net8.0\ref\06.Repainting.dll
