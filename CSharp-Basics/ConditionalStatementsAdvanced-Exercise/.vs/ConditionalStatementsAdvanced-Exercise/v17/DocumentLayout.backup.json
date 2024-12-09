@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4CD34877-EC60-4680-A9E7-0D3C6A29FFFA}|09.SkiTrip\\09.SkiTrip.csproj|d:\\softuni\\csharp-basics\\conditionalstatementsadvanced-exercise\\09.skitrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD34877-EC60-4680-A9E7-0D3C6A29FFFA}|09.SkiTrip\\09.SkiTrip.csproj|solutionrelative:09.skitrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FC890B-E8A9-4D81-B0DF-A1F07F15E73E}|08.OnTimeForTheExam\\08.OnTimeForTheExam.csproj|d:\\softuni\\csharp-basics\\conditionalstatementsadvanced-exercise\\08.ontimefortheexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FC890B-E8A9-4D81-B0DF-A1F07F15E73E}|08.OnTimeForTheExam\\08.OnTimeForTheExam.csproj|solutionrelative:08.ontimefortheexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97426E90-6913-4345-8380-B3E3F26C5BB1}|07.HotelRoom\\07.HotelRoom.csproj|d:\\softuni\\csharp-basics\\conditionalstatementsadvanced-exercise\\07.hotelroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97426E90-6913-4345-8380-B3E3F26C5BB1}|07.HotelRoom\\07.HotelRoom.csproj|solutionrelative:07.hotelroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D805272-6136-45CF-81B6-DAE8D887FD45}|06.OperationsBetweenNumbers\\06.OperationsBetweenNumbers.csproj|d:\\softuni\\csharp-basics\\conditionalstatementsadvanced-exercise\\06.operationsbetweennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D805272-6136-45CF-81B6-DAE8D887FD45}|06.OperationsBetweenNumbers\\06.OperationsBetweenNumbers.csproj|solutionrelative:06.operationsbetweennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D571237B-A442-499D-9ABE-50D980080F1E}|05.Journey\\05.Journey.csproj|d:\\softuni\\csharp-basics\\conditionalstatementsadvanced-exercise\\05.journey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D571237B-A442-499D-9ABE-50D980080F1E}|05.Journey\\05.Journey.csproj|solutionrelative:05.journey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012BAFB-F6DC-477A-BDB8-5B3D6082D516}|04.FishingBoat\\04.FishingBoat.csproj|d:\\softuni\\csharp-basics\\conditionalstatementsadvanced-exercise\\04.fishingboat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012BAFB-F6DC-477A-BDB8-5B3D6082D516}|04.FishingBoat\\04.FishingBoat.csproj|solutionrelative:04.fishingboat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41C8789-9F08-45BD-96FB-91A4DE936595}|03.NewHouse\\03.NewHouse.csproj|d:\\softuni\\csharp-basics\\conditionalstatementsadvanced-exercise\\03.newhouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41C8789-9F08-45BD-96FB-91A4DE936595}|03.NewHouse\\03.NewHouse.csproj|solutionrelative:03.newhouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD243AF-22AE-47AB-8B77-34EB9048CB53}|02.SummerOutfit\\02.SummerOutfit.csproj|d:\\softuni\\csharp-basics\\conditionalstatementsadvanced-exercise\\02.summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD243AF-22AE-47AB-8B77-34EB9048CB53}|02.SummerOutfit\\02.SummerOutfit.csproj|solutionrelative:02.summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB88FC82-DA99-4F15-B027-000EAA8074F3}|01.Cinema\\01.Cinema.csproj|d:\\softuni\\csharp-basics\\conditionalstatementsadvanced-exercise\\01.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB88FC82-DA99-4F15-B027-000EAA8074F3}|01.Cinema\\01.Cinema.csproj|solutionrelative:01.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -28,14 +60,110 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\Program.cs",
+              "RelativeDocumentMoniker": "09.SkiTrip\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\Program.cs*",
+              "RelativeToolTip": "09.SkiTrip\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:50:36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\08.OnTimeForTheExam\\Program.cs",
+              "RelativeDocumentMoniker": "08.OnTimeForTheExam\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\08.OnTimeForTheExam\\Program.cs",
+              "RelativeToolTip": "08.OnTimeForTheExam\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:46:21.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\07.HotelRoom\\Program.cs",
+              "RelativeDocumentMoniker": "07.HotelRoom\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\07.HotelRoom\\Program.cs",
+              "RelativeToolTip": "07.HotelRoom\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:40:59.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\06.OperationsBetweenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "06.OperationsBetweenNumbers\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\06.OperationsBetweenNumbers\\Program.cs",
+              "RelativeToolTip": "06.OperationsBetweenNumbers\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:31:47.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\05.Journey\\Program.cs",
+              "RelativeDocumentMoniker": "05.Journey\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\05.Journey\\Program.cs",
+              "RelativeToolTip": "05.Journey\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:29:40.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\04.FishingBoat\\Program.cs",
+              "RelativeDocumentMoniker": "04.FishingBoat\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\04.FishingBoat\\Program.cs",
+              "RelativeToolTip": "04.FishingBoat\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:28:37.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\03.NewHouse\\Program.cs",
+              "RelativeDocumentMoniker": "03.NewHouse\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\03.NewHouse\\Program.cs",
+              "RelativeToolTip": "03.NewHouse\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:26:43.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\02.SummerOutfit\\Program.cs",
+              "RelativeDocumentMoniker": "02.SummerOutfit\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\02.SummerOutfit\\Program.cs",
+              "RelativeToolTip": "02.SummerOutfit\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:25:11.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\01.Cinema\\Program.cs",
               "RelativeDocumentMoniker": "01.Cinema\\Program.cs",
               "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ConditionalStatementsAdvanced-Exercise\\01.Cinema\\Program.cs",
               "RelativeToolTip": "01.Cinema\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T13:24:23.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T13:24:23.879Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09.SkiTrip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+883ac2215f26515fad885f961ea767ffc867e760")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ac2ae3f73a8b94d819ec4854cc64e07dfe8b74c")]
 [assembly: System.Reflection.AssemblyProductAttribute("09.SkiTrip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09.SkiTrip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
