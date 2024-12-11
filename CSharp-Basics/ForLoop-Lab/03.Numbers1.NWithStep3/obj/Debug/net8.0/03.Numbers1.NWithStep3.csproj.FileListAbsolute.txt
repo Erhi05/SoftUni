@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\bin\Debug\net8.0\03.Numbers1.NWithStep3.exe
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\bin\Debug\net8.0\03.Numbers1.NWithStep3.deps.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\bin\Debug\net8.0\03.Numbers1.NWithStep3.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\bin\Debug\net8.0\03.Numbers1.NWithStep3.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\bin\Debug\net8.0\03.Numbers1.NWithStep3.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\net8.0\03.Numbers1.NWithStep3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\net8.0\03.Numbers1.NWithStep3.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\net8.0\03.Numbers1.NWithStep3.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\net8.0\03.Numbers1.NWithStep3.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\net8.0\03.Numbers1.NWithStep3.sourcelink.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\net8.0\03.Numbers1.NWithStep3.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\net8.0\refint\03.Numbers1.NWithStep3.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\net8.0\03.Numbers1.NWithStep3.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\net8.0\03.Numbers1.NWithStep3.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\net8.0\ref\03.Numbers1.NWithStep3.dll

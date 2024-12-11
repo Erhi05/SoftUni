@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\bin\Debug\net8.0\07.SumNumbers.exe
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\bin\Debug\net8.0\07.SumNumbers.deps.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\bin\Debug\net8.0\07.SumNumbers.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\bin\Debug\net8.0\07.SumNumbers.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\bin\Debug\net8.0\07.SumNumbers.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\obj\Debug\net8.0\07.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\obj\Debug\net8.0\07.SumNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\obj\Debug\net8.0\07.SumNumbers.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\obj\Debug\net8.0\07.SumNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\obj\Debug\net8.0\07.SumNumbers.sourcelink.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\obj\Debug\net8.0\07.SumNumbers.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\obj\Debug\net8.0\refint\07.SumNumbers.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\obj\Debug\net8.0\07.SumNumbers.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\obj\Debug\net8.0\07.SumNumbers.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\07.SumNumbers\obj\Debug\net8.0\ref\07.SumNumbers.dll

@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\bin\Debug\net8.0\08.NumberSequence.exe
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\bin\Debug\net8.0\08.NumberSequence.deps.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\bin\Debug\net8.0\08.NumberSequence.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\bin\Debug\net8.0\08.NumberSequence.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\bin\Debug\net8.0\08.NumberSequence.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.sourcelink.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\refint\08.NumberSequence.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\08.NumberSequence.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\08.NumberSequence\obj\Debug\net8.0\ref\08.NumberSequence.dll

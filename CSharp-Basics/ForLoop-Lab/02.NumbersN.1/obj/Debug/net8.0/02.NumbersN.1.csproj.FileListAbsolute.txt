@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\bin\Debug\net8.0\02.NumbersN.1.exe
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\bin\Debug\net8.0\02.NumbersN.1.deps.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\bin\Debug\net8.0\02.NumbersN.1.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\bin\Debug\net8.0\02.NumbersN.1.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\bin\Debug\net8.0\02.NumbersN.1.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\obj\Debug\net8.0\02.NumbersN.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\obj\Debug\net8.0\02.NumbersN.1.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\obj\Debug\net8.0\02.NumbersN.1.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\obj\Debug\net8.0\02.NumbersN.1.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\obj\Debug\net8.0\02.NumbersN.1.sourcelink.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\obj\Debug\net8.0\02.NumbersN.1.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\obj\Debug\net8.0\refint\02.NumbersN.1.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\obj\Debug\net8.0\02.NumbersN.1.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\obj\Debug\net8.0\02.NumbersN.1.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\02.NumbersN.1\obj\Debug\net8.0\ref\02.NumbersN.1.dll

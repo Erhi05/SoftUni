@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net8.0\01.NumbersFrom1To100.exe
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net8.0\01.NumbersFrom1To100.deps.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net8.0\01.NumbersFrom1To100.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net8.0\01.NumbersFrom1To100.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net8.0\01.NumbersFrom1To100.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.sourcelink.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\refint\01.NumbersFrom1To100.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\ref\01.NumbersFrom1To100.dll

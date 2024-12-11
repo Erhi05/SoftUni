@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{767749B6-3CBF-42E8-AEFD-360CDE100EA0}|10.OddEvenSum\\10.OddEvenSum.csproj|d:\\softuni\\csharp-basics\\forloop-lab\\10.oddevensum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767749B6-3CBF-42E8-AEFD-360CDE100EA0}|10.OddEvenSum\\10.OddEvenSum.csproj|solutionrelative:10.oddevensum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8847FA90-57D2-40B4-8C10-2A3611B7DA4F}|09.LeftAndRightSum\\09.LeftAndRightSum.csproj|d:\\softuni\\csharp-basics\\forloop-lab\\09.leftandrightsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8847FA90-57D2-40B4-8C10-2A3611B7DA4F}|09.LeftAndRightSum\\09.LeftAndRightSum.csproj|solutionrelative:09.leftandrightsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4F36DB-90A7-4142-80C2-9A56A322A58F}|07.SumNumbers\\07.SumNumbers.csproj|d:\\softuni\\csharp-basics\\forloop-lab\\07.sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4F36DB-90A7-4142-80C2-9A56A322A58F}|07.SumNumbers\\07.SumNumbers.csproj|solutionrelative:07.sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C225D2FE-6E81-4F64-8507-F7FEB4E9D813}|08.NumberSequence\\08.NumberSequence.csproj|d:\\softuni\\csharp-basics\\forloop-lab\\08.numbersequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C225D2FE-6E81-4F64-8507-F7FEB4E9D813}|08.NumberSequence\\08.NumberSequence.csproj|solutionrelative:08.numbersequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F41ED33-869E-493B-A1DF-C17C57ECF080}|01.NumbersFrom1To100\\01.NumbersFrom1To100.csproj|d:\\softuni\\csharp-basics\\forloop-lab\\01.numbersfrom1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F41ED33-869E-493B-A1DF-C17C57ECF080}|01.NumbersFrom1To100\\01.NumbersFrom1To100.csproj|solutionrelative:01.numbersfrom1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EA30EC-8C1C-41CC-9D38-14D01EE9D0A9}|06.VowelsSum\\06.VowelsSum.csproj|d:\\softuni\\csharp-basics\\forloop-lab\\06.vowelssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EA30EC-8C1C-41CC-9D38-14D01EE9D0A9}|06.VowelsSum\\06.VowelsSum.csproj|solutionrelative:06.vowelssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBAEEC-098D-4FDE-B6D8-F3655D1C78FB}|05.CharacterSequence\\05.CharacterSequence.csproj|d:\\softuni\\csharp-basics\\forloop-lab\\05.charactersequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFBAEEC-098D-4FDE-B6D8-F3655D1C78FB}|05.CharacterSequence\\05.CharacterSequence.csproj|solutionrelative:05.charactersequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED75F543-6C32-4D8F-9A7C-E3F9946D9F63}|04.EvenPowersOf2\\04.EvenPowersOf2.csproj|d:\\softuni\\csharp-basics\\forloop-lab\\04.evenpowersof2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED75F543-6C32-4D8F-9A7C-E3F9946D9F63}|04.EvenPowersOf2\\04.EvenPowersOf2.csproj|solutionrelative:04.evenpowersof2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632BAB77-55D7-4DFF-8921-027D49CC581C}|03.Numbers1.NWithStep3\\03.Numbers1.NWithStep3.csproj|d:\\softuni\\csharp-basics\\forloop-lab\\03.numbers1.nwithstep3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632BAB77-55D7-4DFF-8921-027D49CC581C}|03.Numbers1.NWithStep3\\03.Numbers1.NWithStep3.csproj|solutionrelative:03.numbers1.nwithstep3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F446D27-249B-4505-9D3C-161361337F05}|02.NumbersN.1\\02.NumbersN.1.csproj|d:\\softuni\\csharp-basics\\forloop-lab\\02.numbersn.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F446D27-249B-4505-9D3C-161361337F05}|02.NumbersN.1\\02.NumbersN.1.csproj|solutionrelative:02.numbersn.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\10.OddEvenSum\\Program.cs",
+              "RelativeDocumentMoniker": "10.OddEvenSum\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\10.OddEvenSum\\Program.cs",
+              "RelativeToolTip": "10.OddEvenSum\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:45:12.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\09.LeftAndRightSum\\Program.cs",
+              "RelativeDocumentMoniker": "09.LeftAndRightSum\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\09.LeftAndRightSum\\Program.cs",
+              "RelativeToolTip": "09.LeftAndRightSum\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:38:01.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\08.NumberSequence\\Program.cs",
+              "RelativeDocumentMoniker": "08.NumberSequence\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\08.NumberSequence\\Program.cs",
+              "RelativeToolTip": "08.NumberSequence\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:35:46.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\07.SumNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "07.SumNumbers\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\07.SumNumbers\\Program.cs",
+              "RelativeToolTip": "07.SumNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:30:11.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\06.VowelsSum\\Program.cs",
+              "RelativeDocumentMoniker": "06.VowelsSum\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\06.VowelsSum\\Program.cs",
+              "RelativeToolTip": "06.VowelsSum\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:20:58.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\05.CharacterSequence\\Program.cs",
+              "RelativeDocumentMoniker": "05.CharacterSequence\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\05.CharacterSequence\\Program.cs",
+              "RelativeToolTip": "05.CharacterSequence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:19:11.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\04.EvenPowersOf2\\Program.cs",
+              "RelativeDocumentMoniker": "04.EvenPowersOf2\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\04.EvenPowersOf2\\Program.cs",
+              "RelativeToolTip": "04.EvenPowersOf2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:31:11.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\03.Numbers1.NWithStep3\\Program.cs",
+              "RelativeDocumentMoniker": "03.Numbers1.NWithStep3\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\03.Numbers1.NWithStep3\\Program.cs",
+              "RelativeToolTip": "03.Numbers1.NWithStep3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:29:18.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\02.NumbersN.1\\Program.cs",
+              "RelativeDocumentMoniker": "02.NumbersN.1\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\02.NumbersN.1\\Program.cs",
+              "RelativeToolTip": "02.NumbersN.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:27:08.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\01.NumbersFrom1To100\\Program.cs",
+              "RelativeDocumentMoniker": "01.NumbersFrom1To100\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Lab\\01.NumbersFrom1To100\\Program.cs",
+              "RelativeToolTip": "01.NumbersFrom1To100\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:25:32.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

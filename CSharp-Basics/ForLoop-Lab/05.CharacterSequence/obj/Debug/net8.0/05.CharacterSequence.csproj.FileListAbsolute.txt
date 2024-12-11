@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\bin\Debug\net8.0\05.CharacterSequence.exe
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\bin\Debug\net8.0\05.CharacterSequence.deps.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\bin\Debug\net8.0\05.CharacterSequence.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\bin\Debug\net8.0\05.CharacterSequence.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\bin\Debug\net8.0\05.CharacterSequence.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.sourcelink.json
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\obj\Debug\net8.0\refint\05.CharacterSequence.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Lab\05.CharacterSequence\obj\Debug\net8.0\ref\05.CharacterSequence.dll
