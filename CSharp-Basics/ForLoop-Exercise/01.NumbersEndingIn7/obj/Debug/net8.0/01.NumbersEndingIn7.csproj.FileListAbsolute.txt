@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\net8.0\01.NumbersEndingIn7.exe
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\net8.0\01.NumbersEndingIn7.deps.json
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\net8.0\01.NumbersEndingIn7.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\net8.0\01.NumbersEndingIn7.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\net8.0\01.NumbersEndingIn7.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.sourcelink.json
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\net8.0\refint\01.NumbersEndingIn7.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\net8.0\ref\01.NumbersEndingIn7.dll
