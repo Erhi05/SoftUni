@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\bin\Debug\net8.0\08.TennisRanklist.exe
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\bin\Debug\net8.0\08.TennisRanklist.deps.json
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\bin\Debug\net8.0\08.TennisRanklist.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\bin\Debug\net8.0\08.TennisRanklist.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\bin\Debug\net8.0\08.TennisRanklist.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.sourcelink.json
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\refint\08.TennisRanklist.dll
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.pdb
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\ref\08.TennisRanklist.dll

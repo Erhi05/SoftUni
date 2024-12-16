@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3FA38475-5B56-4798-815A-700E10179D00}|08.TennisRanklist\\08.TennisRanklist.csproj|d:\\softuni\\csharp-basics\\forloop-exercise\\08.tennisranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA38475-5B56-4798-815A-700E10179D00}|08.TennisRanklist\\08.TennisRanklist.csproj|solutionrelative:08.tennisranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D68610-CF2D-48E8-B11D-52092BF478EE}|07.TrekkingMania\\07.TrekkingMania.csproj|d:\\softuni\\csharp-basics\\forloop-exercise\\07.trekkingmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D68610-CF2D-48E8-B11D-52092BF478EE}|07.TrekkingMania\\07.TrekkingMania.csproj|solutionrelative:07.trekkingmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1D311E-5B8D-4ACB-B276-1EC969B6418A}|06.Oscars\\06.Oscars.csproj|d:\\softuni\\csharp-basics\\forloop-exercise\\06.oscars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1D311E-5B8D-4ACB-B276-1EC969B6418A}|06.Oscars\\06.Oscars.csproj|solutionrelative:06.oscars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D183FC7-9633-4D69-8FCA-B6BB99A1DFEC}|05.Salary\\05.Salary.csproj|d:\\softuni\\csharp-basics\\forloop-exercise\\05.salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D183FC7-9633-4D69-8FCA-B6BB99A1DFEC}|05.Salary\\05.Salary.csproj|solutionrelative:05.salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFC2243-2044-4183-AD26-945746AF4C64}|04.CleverLily\\04.CleverLily.csproj|d:\\softuni\\csharp-basics\\forloop-exercise\\04.cleverlily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFC2243-2044-4183-AD26-945746AF4C64}|04.CleverLily\\04.CleverLily.csproj|solutionrelative:04.cleverlily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA36037D-B230-4DB3-846A-33DE092E1B00}|03.Histogram\\03.Histogram.csproj|d:\\softuni\\csharp-basics\\forloop-exercise\\03.histogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA36037D-B230-4DB3-846A-33DE092E1B00}|03.Histogram\\03.Histogram.csproj|solutionrelative:03.histogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437A6B50-FADF-4B42-AC67-F2BA1F12F61C}|02.HalfSumElement\\02.HalfSumElement.csproj|d:\\softuni\\csharp-basics\\forloop-exercise\\02.halfsumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437A6B50-FADF-4B42-AC67-F2BA1F12F61C}|02.HalfSumElement\\02.HalfSumElement.csproj|solutionrelative:02.halfsumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21AFBAD7-6B17-4111-ADEF-4FBCCDEF61DC}|01.NumbersEndingIn7\\01.NumbersEndingIn7.csproj|d:\\softuni\\csharp-basics\\forloop-exercise\\01.numbersendingin7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21AFBAD7-6B17-4111-ADEF-4FBCCDEF61DC}|01.NumbersEndingIn7\\01.NumbersEndingIn7.csproj|solutionrelative:01.numbersendingin7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -28,14 +56,103 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\08.TennisRanklist\\Program.cs",
+              "RelativeDocumentMoniker": "08.TennisRanklist\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\08.TennisRanklist\\Program.cs*",
+              "RelativeToolTip": "08.TennisRanklist\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:10:42.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\07.TrekkingMania\\Program.cs",
+              "RelativeDocumentMoniker": "07.TrekkingMania\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\07.TrekkingMania\\Program.cs",
+              "RelativeToolTip": "07.TrekkingMania\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:07:13.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\06.Oscars\\Program.cs",
+              "RelativeDocumentMoniker": "06.Oscars\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\06.Oscars\\Program.cs",
+              "RelativeToolTip": "06.Oscars\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:03:02.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\05.Salary\\Program.cs",
+              "RelativeDocumentMoniker": "05.Salary\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\05.Salary\\Program.cs",
+              "RelativeToolTip": "05.Salary\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:01:37.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\04.CleverLily\\Program.cs",
+              "RelativeDocumentMoniker": "04.CleverLily\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\04.CleverLily\\Program.cs",
+              "RelativeToolTip": "04.CleverLily\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA/wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:59:16.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\03.Histogram\\Program.cs",
+              "RelativeDocumentMoniker": "03.Histogram\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\03.Histogram\\Program.cs",
+              "RelativeToolTip": "03.Histogram\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:56:50.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\02.HalfSumElement\\Program.cs",
+              "RelativeDocumentMoniker": "02.HalfSumElement\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\02.HalfSumElement\\Program.cs",
+              "RelativeToolTip": "02.HalfSumElement\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:55:12.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\01.NumbersEndingIn7\\Program.cs",
               "RelativeDocumentMoniker": "01.NumbersEndingIn7\\Program.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\01.NumbersEndingIn7\\Program.cs*",
-              "RelativeToolTip": "01.NumbersEndingIn7\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\ForLoop-Exercise\\01.NumbersEndingIn7\\Program.cs",
+              "RelativeToolTip": "01.NumbersEndingIn7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T17:15:52.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T17:15:52.579Z"
             }
           ]
         }
