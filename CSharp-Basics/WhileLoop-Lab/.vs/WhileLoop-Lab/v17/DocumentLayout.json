@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F705C32-2EBD-406D-B938-222DF8D5CC40}|08.Graduation\\08.Graduation.csproj|d:\\softuni\\csharp-basics\\whileloop-lab\\08.graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F705C32-2EBD-406D-B938-222DF8D5CC40}|08.Graduation\\08.Graduation.csproj|solutionrelative:08.graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5AB6A8-DA1E-4E2C-AF5E-88611D475599}|07.MinNumber\\07.MinNumber.csproj|d:\\softuni\\csharp-basics\\whileloop-lab\\07.minnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5AB6A8-DA1E-4E2C-AF5E-88611D475599}|07.MinNumber\\07.MinNumber.csproj|solutionrelative:07.minnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3180076F-8110-40FD-95DD-EE3FFCFE1395}|06.MaxNumber\\06.MaxNumber.csproj|d:\\softuni\\csharp-basics\\whileloop-lab\\06.maxnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3180076F-8110-40FD-95DD-EE3FFCFE1395}|06.MaxNumber\\06.MaxNumber.csproj|solutionrelative:06.maxnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2E0550-D18E-467B-8412-C6BFD1A04709}|05.AccountBalance\\05.AccountBalance.csproj|d:\\softuni\\csharp-basics\\whileloop-lab\\05.accountbalance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2E0550-D18E-467B-8412-C6BFD1A04709}|05.AccountBalance\\05.AccountBalance.csproj|solutionrelative:05.accountbalance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE79EA7-B474-4098-91BE-D2486D99934A}|04.Sequence2k\u002B1\\04.Sequence2k\u002B1.csproj|d:\\softuni\\csharp-basics\\whileloop-lab\\04.sequence2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE79EA7-B474-4098-91BE-D2486D99934A}|04.Sequence2k\u002B1\\04.Sequence2k\u002B1.csproj|solutionrelative:04.sequence2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244F830A-5D6D-4C74-9A6A-2FF8E3677371}|03.SumNumbers\\03.SumNumbers.csproj|d:\\softuni\\csharp-basics\\whileloop-lab\\03.sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244F830A-5D6D-4C74-9A6A-2FF8E3677371}|03.SumNumbers\\03.SumNumbers.csproj|solutionrelative:03.sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B73BBE-5A88-4CC2-A299-F57EDD4CC74C}|02.Password\\02.Password.csproj|d:\\softuni\\csharp-basics\\whileloop-lab\\02.password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B73BBE-5A88-4CC2-A299-F57EDD4CC74C}|02.Password\\02.Password.csproj|solutionrelative:02.password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D462ABB1-1F22-462E-8B79-CF811AC63C8F}|01.ReadText\\01.ReadText.csproj|d:\\softuni\\csharp-basics\\whileloop-lab\\01.readtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D462ABB1-1F22-462E-8B79-CF811AC63C8F}|01.ReadText\\01.ReadText.csproj|solutionrelative:01.readtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\08.Graduation\\Program.cs",
+              "RelativeDocumentMoniker": "08.Graduation\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\08.Graduation\\Program.cs",
+              "RelativeToolTip": "08.Graduation\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:03:31.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\07.MinNumber\\Program.cs",
+              "RelativeDocumentMoniker": "07.MinNumber\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\07.MinNumber\\Program.cs",
+              "RelativeToolTip": "07.MinNumber\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA9wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:01:27.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\06.MaxNumber\\Program.cs",
+              "RelativeDocumentMoniker": "06.MaxNumber\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\06.MaxNumber\\Program.cs",
+              "RelativeToolTip": "06.MaxNumber\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA9wBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:56:59.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\05.AccountBalance\\Program.cs",
+              "RelativeDocumentMoniker": "05.AccountBalance\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\05.AccountBalance\\Program.cs",
+              "RelativeToolTip": "05.AccountBalance\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:50:13.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\04.Sequence2k\u002B1\\Program.cs",
+              "RelativeDocumentMoniker": "04.Sequence2k\u002B1\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\04.Sequence2k\u002B1\\Program.cs",
+              "RelativeToolTip": "04.Sequence2k\u002B1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:46:46.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\03.SumNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.SumNumbers\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\03.SumNumbers\\Program.cs",
+              "RelativeToolTip": "03.SumNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:39:58.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\02.Password\\Program.cs",
+              "RelativeDocumentMoniker": "02.Password\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\02.Password\\Program.cs",
+              "RelativeToolTip": "02.Password\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:36:26.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\01.ReadText\\Program.cs",
+              "RelativeDocumentMoniker": "01.ReadText\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\WhileLoop-Lab\\01.ReadText\\Program.cs",
+              "RelativeToolTip": "01.ReadText\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:34:29.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

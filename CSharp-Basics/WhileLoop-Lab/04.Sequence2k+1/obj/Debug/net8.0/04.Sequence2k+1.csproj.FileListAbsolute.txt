@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\bin\Debug\net8.0\04.Sequence2k+1.exe
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\bin\Debug\net8.0\04.Sequence2k+1.deps.json
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\bin\Debug\net8.0\04.Sequence2k+1.runtimeconfig.json
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\bin\Debug\net8.0\04.Sequence2k+1.dll
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\bin\Debug\net8.0\04.Sequence2k+1.pdb
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.AssemblyInfo.cs
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.sourcelink.json
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.dll
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net8.0\refint\04.Sequence2k+1.dll
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.pdb
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.genruntimeconfig.cache
+D:\SoftUni\CSharp-Basics\WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net8.0\ref\04.Sequence2k+1.dll
