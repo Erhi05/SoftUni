@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9510BFC4-3558-4D3B-908C-F64A4370533A}|06.CinemaTickets\\06.CinemaTickets.csproj|d:\\softuni\\csharp-basics\\nestedloops-exercise\\06.cinematickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510BFC4-3558-4D3B-908C-F64A4370533A}|06.CinemaTickets\\06.CinemaTickets.csproj|solutionrelative:06.cinematickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8364A3B2-0F1C-4C33-9FB8-E17DA5B17A3F}|05.SpecialNumbers\\05.SpecialNumbers.csproj|d:\\softuni\\csharp-basics\\nestedloops-exercise\\05.specialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8364A3B2-0F1C-4C33-9FB8-E17DA5B17A3F}|05.SpecialNumbers\\05.SpecialNumbers.csproj|solutionrelative:05.specialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9841F-90DD-411A-B145-7643EEBE21E8}|04.TrainTheTrainers\\04.TrainTheTrainers.csproj|d:\\softuni\\csharp-basics\\nestedloops-exercise\\04.trainthetrainers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9841F-90DD-411A-B145-7643EEBE21E8}|04.TrainTheTrainers\\04.TrainTheTrainers.csproj|solutionrelative:04.trainthetrainers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E163496D-D023-4D29-BF62-0D947DF8C51A}|03.SumPrimeNonPrime\\03.SumPrimeNonPrime.csproj|d:\\softuni\\csharp-basics\\nestedloops-exercise\\03.sumprimenonprime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E163496D-D023-4D29-BF62-0D947DF8C51A}|03.SumPrimeNonPrime\\03.SumPrimeNonPrime.csproj|solutionrelative:03.sumprimenonprime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753302C5-3F5D-4082-B4F1-570FD2C2BCA8}|02.EqualSumsEvenOddPosition\\02.EqualSumsEvenOddPosition.csproj|d:\\softuni\\csharp-basics\\nestedloops-exercise\\02.equalsumsevenoddposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753302C5-3F5D-4082-B4F1-570FD2C2BCA8}|02.EqualSumsEvenOddPosition\\02.EqualSumsEvenOddPosition.csproj|solutionrelative:02.equalsumsevenoddposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA64158-C6DB-4EE0-9D23-7BA4CF52179D}|01.NumberPyramid\\01.NumberPyramid.csproj|d:\\softuni\\csharp-basics\\nestedloops-exercise\\01.numberpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA64158-C6DB-4EE0-9D23-7BA4CF52179D}|01.NumberPyramid\\01.NumberPyramid.csproj|solutionrelative:01.numberpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\06.CinemaTickets\\Program.cs",
+              "RelativeDocumentMoniker": "06.CinemaTickets\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\06.CinemaTickets\\Program.cs",
+              "RelativeToolTip": "06.CinemaTickets\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:47:55.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\05.SpecialNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.SpecialNumbers\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\05.SpecialNumbers\\Program.cs",
+              "RelativeToolTip": "05.SpecialNumbers\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:45:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\04.TrainTheTrainers\\Program.cs",
+              "RelativeDocumentMoniker": "04.TrainTheTrainers\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\04.TrainTheTrainers\\Program.cs",
+              "RelativeToolTip": "04.TrainTheTrainers\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:41:20.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\03.SumPrimeNonPrime\\Program.cs",
+              "RelativeDocumentMoniker": "03.SumPrimeNonPrime\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\03.SumPrimeNonPrime\\Program.cs",
+              "RelativeToolTip": "03.SumPrimeNonPrime\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:35:12.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\02.EqualSumsEvenOddPosition\\Program.cs",
+              "RelativeDocumentMoniker": "02.EqualSumsEvenOddPosition\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\02.EqualSumsEvenOddPosition\\Program.cs",
+              "RelativeToolTip": "02.EqualSumsEvenOddPosition\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:32:00.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\01.NumberPyramid\\Program.cs",
+              "RelativeDocumentMoniker": "01.NumberPyramid\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Basics\\NestedLoops-Exercise\\01.NumberPyramid\\Program.cs",
+              "RelativeToolTip": "01.NumberPyramid\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:27:28.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
