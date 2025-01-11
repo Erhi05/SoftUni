@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\bin\Debug\net8.0\01.StudentInformation.exe
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\bin\Debug\net8.0\01.StudentInformation.deps.json
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\bin\Debug\net8.0\01.StudentInformation.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\bin\Debug\net8.0\01.StudentInformation.dll
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\bin\Debug\net8.0\01.StudentInformation.pdb
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.dll
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\net8.0\refint\01.StudentInformation.dll
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.pdb
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\net8.0\ref\01.StudentInformation.dll

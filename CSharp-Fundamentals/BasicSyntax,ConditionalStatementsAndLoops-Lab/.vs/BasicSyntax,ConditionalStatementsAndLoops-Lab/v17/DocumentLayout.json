@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC6686F-1C59-4BE5-A557-74E251AE5469}|13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\13.holidaysbetweentwodates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC6686F-1C59-4BE5-A557-74E251AE5469}|13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj|solutionrelative:13.holidaysbetweentwodates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADEBC8F-3C91-4524-BCFC-7032ED75321B}|12.EvenNumber\\12.EvenNumber.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\12.evennumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADEBC8F-3C91-4524-BCFC-7032ED75321B}|12.EvenNumber\\12.EvenNumber.csproj|solutionrelative:12.evennumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCFB420-BFFE-4CE1-9995-7F39F5B91F65}|11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\11.multiplicationtable2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCFB420-BFFE-4CE1-9995-7F39F5B91F65}|11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj|solutionrelative:11.multiplicationtable2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD140C9-9A4B-495E-9D2B-3648B51D383C}|10.MultiplicationTable\\10.MultiplicationTable.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\10.multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD140C9-9A4B-495E-9D2B-3648B51D383C}|10.MultiplicationTable\\10.MultiplicationTable.csproj|solutionrelative:10.multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AA7B98-6A8A-415A-8361-BD55312A1D79}|09.SumOfOddNumbers\\09.SumOfOddNumbers.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\09.sumofoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AA7B98-6A8A-415A-8361-BD55312A1D79}|09.SumOfOddNumbers\\09.SumOfOddNumbers.csproj|solutionrelative:09.sumofoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8B98D5-11F4-4E8B-A119-D792B4799C77}|08.DivisibleBy3\\08.DivisibleBy3.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\08.divisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8B98D5-11F4-4E8B-A119-D792B4799C77}|08.DivisibleBy3\\08.DivisibleBy3.csproj|solutionrelative:08.divisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1728C31-DEA3-4941-81BB-55F7685F80E5}|07.TheatrePromotion\\07.TheatrePromotion.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\07.theatrepromotion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1728C31-DEA3-4941-81BB-55F7685F80E5}|07.TheatrePromotion\\07.TheatrePromotion.csproj|solutionrelative:07.theatrepromotion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE49E9F-B47F-48D4-ACA7-84D9959E17F6}|06.ForeignLanguages\\06.ForeignLanguages.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\06.foreignlanguages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE49E9F-B47F-48D4-ACA7-84D9959E17F6}|06.ForeignLanguages\\06.ForeignLanguages.csproj|solutionrelative:06.foreignlanguages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83032E6-406A-4366-B12D-CCA5486D9D01}|05.MonthPrinter\\05.MonthPrinter.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\05.monthprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83032E6-406A-4366-B12D-CCA5486D9D01}|05.MonthPrinter\\05.MonthPrinter.csproj|solutionrelative:05.monthprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84ACA56-0434-4135-A0F9-C4B6B4ACC29F}|04.BackIn30Minutes\\04.BackIn30Minutes.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\04.backin30minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84ACA56-0434-4135-A0F9-C4B6B4ACC29F}|04.BackIn30Minutes\\04.BackIn30Minutes.csproj|solutionrelative:04.backin30minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AEBE1A-AE22-4A98-85CB-115593F29227}|03.PassedOrFailed\\03.PassedOrFailed.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\03.passedorfailed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AEBE1A-AE22-4A98-85CB-115593F29227}|03.PassedOrFailed\\03.PassedOrFailed.csproj|solutionrelative:03.passedorfailed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC80ECF-DBE6-4EBF-ADAF-47BF7EF3E14E}|02.Passed\\02.Passed.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\02.passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC80ECF-DBE6-4EBF-ADAF-47BF7EF3E14E}|02.Passed\\02.Passed.csproj|solutionrelative:02.passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552E838-AD91-4DF0-8FC5-AC564E2C487D}|01.StudentInformation\\01.StudentInformation.csproj|d:\\softuni\\csharp-fundamentals\\basicsyntax,conditionalstatementsandloops-lab\\01.studentinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B552E838-AD91-4DF0-8FC5-AC564E2C487D}|01.StudentInformation\\01.StudentInformation.csproj|solutionrelative:01.studentinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\13.HolidaysBetweenTwoDates\\Program.cs",
+              "RelativeDocumentMoniker": "13.HolidaysBetweenTwoDates\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\13.HolidaysBetweenTwoDates\\Program.cs",
+              "RelativeToolTip": "13.HolidaysBetweenTwoDates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:03:00.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\12.EvenNumber\\Program.cs",
+              "RelativeDocumentMoniker": "12.EvenNumber\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\12.EvenNumber\\Program.cs",
+              "RelativeToolTip": "12.EvenNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:00:30.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\11.MultiplicationTable2.0\\Program.cs",
+              "RelativeDocumentMoniker": "11.MultiplicationTable2.0\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\11.MultiplicationTable2.0\\Program.cs",
+              "RelativeToolTip": "11.MultiplicationTable2.0\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:58:01.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\10.MultiplicationTable\\Program.cs",
+              "RelativeDocumentMoniker": "10.MultiplicationTable\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\10.MultiplicationTable\\Program.cs",
+              "RelativeToolTip": "10.MultiplicationTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:51:56.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\09.SumOfOddNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "09.SumOfOddNumbers\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\09.SumOfOddNumbers\\Program.cs",
+              "RelativeToolTip": "09.SumOfOddNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:32:08.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\08.DivisibleBy3\\Program.cs",
+              "RelativeDocumentMoniker": "08.DivisibleBy3\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\08.DivisibleBy3\\Program.cs",
+              "RelativeToolTip": "08.DivisibleBy3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:30:33.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\07.TheatrePromotion\\Program.cs",
+              "RelativeDocumentMoniker": "07.TheatrePromotion\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\07.TheatrePromotion\\Program.cs",
+              "RelativeToolTip": "07.TheatrePromotion\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:28:49.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\06.ForeignLanguages\\Program.cs",
+              "RelativeDocumentMoniker": "06.ForeignLanguages\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\06.ForeignLanguages\\Program.cs",
+              "RelativeToolTip": "06.ForeignLanguages\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:18:47.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\05.MonthPrinter\\Program.cs",
+              "RelativeDocumentMoniker": "05.MonthPrinter\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\05.MonthPrinter\\Program.cs",
+              "RelativeToolTip": "05.MonthPrinter\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:17:37.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\04.BackIn30Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "04.BackIn30Minutes\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\04.BackIn30Minutes\\Program.cs",
+              "RelativeToolTip": "04.BackIn30Minutes\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:14:45.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\03.PassedOrFailed\\Program.cs",
+              "RelativeDocumentMoniker": "03.PassedOrFailed\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\03.PassedOrFailed\\Program.cs",
+              "RelativeToolTip": "03.PassedOrFailed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:13:25.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\02.Passed\\Program.cs",
+              "RelativeDocumentMoniker": "02.Passed\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\02.Passed\\Program.cs",
+              "RelativeToolTip": "02.Passed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:10:48.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\01.StudentInformation\\Program.cs",
+              "RelativeDocumentMoniker": "01.StudentInformation\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-Lab\\01.StudentInformation\\Program.cs",
+              "RelativeToolTip": "01.StudentInformation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:07:03.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

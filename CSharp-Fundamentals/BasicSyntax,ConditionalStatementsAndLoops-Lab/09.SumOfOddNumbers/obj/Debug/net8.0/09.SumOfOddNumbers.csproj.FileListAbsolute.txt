@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\net8.0\09.SumOfOddNumbers.exe
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\net8.0\09.SumOfOddNumbers.deps.json
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\net8.0\09.SumOfOddNumbers.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\net8.0\09.SumOfOddNumbers.dll
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\net8.0\09.SumOfOddNumbers.pdb
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.dll
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\refint\09.SumOfOddNumbers.dll
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.pdb
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\09.SumOfOddNumbers.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net8.0\ref\09.SumOfOddNumbers.dll
