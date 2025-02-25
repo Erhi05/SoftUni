@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\net8.0\05.SpecialNumbers.exe
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\net8.0\05.SpecialNumbers.deps.json
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\net8.0\05.SpecialNumbers.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\net8.0\05.SpecialNumbers.dll
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\net8.0\05.SpecialNumbers.pdb
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.dll
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net8.0\refint\05.SpecialNumbers.dll
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.pdb
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\net8.0\ref\05.SpecialNumbers.dll

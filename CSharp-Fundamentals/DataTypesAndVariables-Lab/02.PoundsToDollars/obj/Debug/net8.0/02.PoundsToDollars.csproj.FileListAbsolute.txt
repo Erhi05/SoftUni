@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net8.0\02.PoundsToDollars.exe
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net8.0\02.PoundsToDollars.deps.json
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net8.0\02.PoundsToDollars.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net8.0\02.PoundsToDollars.dll
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net8.0\02.PoundsToDollars.pdb
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net8.0\02.PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net8.0\02.PoundsToDollars.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net8.0\02.PoundsToDollars.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net8.0\02.PoundsToDollars.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net8.0\02.PoundsToDollars.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net8.0\02.PoundsToDollars.dll
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net8.0\refint\02.PoundsToDollars.dll
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net8.0\02.PoundsToDollars.pdb
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net8.0\02.PoundsToDollars.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net8.0\ref\02.PoundsToDollars.dll
