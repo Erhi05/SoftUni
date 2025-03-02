@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\net8.0\02.SumDigits.exe
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\net8.0\02.SumDigits.deps.json
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\net8.0\02.SumDigits.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\net8.0\02.SumDigits.dll
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\net8.0\02.SumDigits.pdb
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net8.0\02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net8.0\02.SumDigits.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net8.0\02.SumDigits.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net8.0\02.SumDigits.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net8.0\02.SumDigits.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net8.0\02.SumDigits.dll
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net8.0\refint\02.SumDigits.dll
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net8.0\02.SumDigits.pdb
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net8.0\02.SumDigits.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net8.0\ref\02.SumDigits.dll

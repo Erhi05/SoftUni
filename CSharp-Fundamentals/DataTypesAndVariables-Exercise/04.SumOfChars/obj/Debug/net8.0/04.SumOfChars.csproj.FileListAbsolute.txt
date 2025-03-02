@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net8.0\04.SumOfChars.exe
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net8.0\04.SumOfChars.deps.json
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net8.0\04.SumOfChars.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net8.0\04.SumOfChars.dll
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net8.0\04.SumOfChars.pdb
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.dll
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net8.0\refint\04.SumOfChars.dll
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.pdb
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net8.0\ref\04.SumOfChars.dll
