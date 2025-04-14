@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net8.0\02.PrintNumbersInReverseOrder.exe
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net8.0\02.PrintNumbersInReverseOrder.deps.json
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net8.0\02.PrintNumbersInReverseOrder.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net8.0\02.PrintNumbersInReverseOrder.dll
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net8.0\02.PrintNumbersInReverseOrder.pdb
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net8.0\02.PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net8.0\02.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net8.0\02.PrintNumbersInReverseOrder.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net8.0\02.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net8.0\02.PrintNumbersInReverseOrder.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net8.0\02.PrintNumbersInReverseOrder.dll
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net8.0\refint\02.PrintNumbersInReverseOrder.dll
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net8.0\02.PrintNumbersInReverseOrder.pdb
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net8.0\02.PrintNumbersInReverseOrder.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net8.0\ref\02.PrintNumbersInReverseOrder.dll
