@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\bin\Debug\net8.0\09KaminoFactory.exe
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\bin\Debug\net8.0\09KaminoFactory.deps.json
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\bin\Debug\net8.0\09KaminoFactory.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\bin\Debug\net8.0\09KaminoFactory.dll
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\bin\Debug\net8.0\09KaminoFactory.pdb
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\obj\Debug\net8.0\09KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\obj\Debug\net8.0\09KaminoFactory.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\obj\Debug\net8.0\09KaminoFactory.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\obj\Debug\net8.0\09KaminoFactory.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\obj\Debug\net8.0\09KaminoFactory.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\obj\Debug\net8.0\09KaminoFactory.dll
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\obj\Debug\net8.0\refint\09KaminoFactory.dll
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\obj\Debug\net8.0\09KaminoFactory.pdb
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\obj\Debug\net8.0\09KaminoFactory.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\09KaminoFactory\obj\Debug\net8.0\ref\09KaminoFactory.dll

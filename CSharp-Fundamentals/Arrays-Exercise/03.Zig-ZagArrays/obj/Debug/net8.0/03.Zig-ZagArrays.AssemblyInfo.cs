@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03.Zig-ZagArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f64a80aac3a76fb4640b4ccb192f2330b650f12f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cde01c34173af667f9f5d3d359a7d05156800743")]
 [assembly: System.Reflection.AssemblyProductAttribute("03.Zig-ZagArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03.Zig-ZagArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

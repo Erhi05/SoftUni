@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{391961A3-0178-4EBB-B904-5FE821C1D7C0}|10.LadyBugs\\10.LadyBugs.csproj|d:\\softuni\\csharp-fundamentals\\arrays-exercise\\10.ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391961A3-0178-4EBB-B904-5FE821C1D7C0}|10.LadyBugs\\10.LadyBugs.csproj|solutionrelative:10.ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D69B170-03C7-4685-BC8F-A4672001DBAC}|09KaminoFactory\\09KaminoFactory.csproj|d:\\softuni\\csharp-fundamentals\\arrays-exercise\\09kaminofactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D69B170-03C7-4685-BC8F-A4672001DBAC}|09KaminoFactory\\09KaminoFactory.csproj|solutionrelative:09kaminofactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{715FE6B2-0E62-4612-B8D0-4703F480908F}|06.EqualSum\\06.EqualSum.csproj|d:\\softuni\\csharp-fundamentals\\arrays-exercise\\06.equalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{715FE6B2-0E62-4612-B8D0-4703F480908F}|06.EqualSum\\06.EqualSum.csproj|solutionrelative:06.equalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E36081D-3758-49E2-B255-9D0DE735D2D7}|07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj|d:\\softuni\\csharp-fundamentals\\arrays-exercise\\07.maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E36081D-3758-49E2-B255-9D0DE735D2D7}|07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj|solutionrelative:07.maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C32288-5866-43E4-958E-A1A63F24F2D6}|08.MagicSum\\08.MagicSum.csproj|d:\\softuni\\csharp-fundamentals\\arrays-exercise\\08.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C32288-5866-43E4-958E-A1A63F24F2D6}|08.MagicSum\\08.MagicSum.csproj|solutionrelative:08.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4745E3D9-EAF6-47AB-97F8-BE3F8B4DFC8D}|05.TopIntegers\\05.TopIntegers.csproj|d:\\softuni\\csharp-fundamentals\\arrays-exercise\\05.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,31 +64,82 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\06.EqualSum\\Program.cs",
-              "RelativeDocumentMoniker": "06.EqualSum\\Program.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\06.EqualSum\\Program.cs",
-              "RelativeToolTip": "06.EqualSum\\Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\10.LadyBugs\\Program.cs",
+              "RelativeDocumentMoniker": "10.LadyBugs\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\10.LadyBugs\\Program.cs",
+              "RelativeToolTip": "10.LadyBugs\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T13:07:07.471Z",
+              "WhenOpened": "2025-04-17T20:17:05.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\05.TopIntegers\\Program.cs",
-              "RelativeDocumentMoniker": "05.TopIntegers\\Program.cs",
-              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\05.TopIntegers\\Program.cs*",
-              "RelativeToolTip": "05.TopIntegers\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\09KaminoFactory\\Program.cs",
+              "RelativeDocumentMoniker": "09KaminoFactory\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\09KaminoFactory\\Program.cs*",
+              "RelativeToolTip": "09KaminoFactory\\Program.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:59:44.454Z",
+              "WhenOpened": "2025-04-17T20:06:17.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\08.MagicSum\\Program.cs",
+              "RelativeDocumentMoniker": "08.MagicSum\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\08.MagicSum\\Program.cs",
+              "RelativeToolTip": "08.MagicSum\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:03:05.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\07.MaxSequenceOfEqualElements\\Program.cs",
+              "RelativeDocumentMoniker": "07.MaxSequenceOfEqualElements\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\07.MaxSequenceOfEqualElements\\Program.cs",
+              "RelativeToolTip": "07.MaxSequenceOfEqualElements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:57:29.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\06.EqualSum\\Program.cs",
+              "RelativeDocumentMoniker": "06.EqualSum\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\06.EqualSum\\Program.cs",
+              "RelativeToolTip": "06.EqualSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:07:07.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\05.TopIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "05.TopIntegers\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\05.TopIntegers\\Program.cs",
+              "RelativeToolTip": "05.TopIntegers\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:59:44.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\04.ArrayRotation\\Program.cs",
               "RelativeDocumentMoniker": "04.ArrayRotation\\Program.cs",
@@ -80,12 +147,11 @@
               "RelativeToolTip": "04.ArrayRotation\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:56:41.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T12:56:41.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\03.Zig-ZagArrays\\Program.cs",
               "RelativeDocumentMoniker": "03.Zig-ZagArrays\\Program.cs",
@@ -93,12 +159,11 @@
               "RelativeToolTip": "03.Zig-ZagArrays\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAIwBgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:51:42.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T12:51:42.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\02.CommonElements\\Program.cs",
               "RelativeDocumentMoniker": "02.CommonElements\\Program.cs",
@@ -106,12 +171,11 @@
               "RelativeToolTip": "02.CommonElements\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:40:40.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T12:40:40.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Arrays-Exercise\\01.Train\\Program.cs",
               "RelativeDocumentMoniker": "01.Train\\Program.cs",
@@ -119,8 +183,7 @@
               "RelativeToolTip": "01.Train\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:33:26.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T12:33:26.89Z"
             }
           ]
         }

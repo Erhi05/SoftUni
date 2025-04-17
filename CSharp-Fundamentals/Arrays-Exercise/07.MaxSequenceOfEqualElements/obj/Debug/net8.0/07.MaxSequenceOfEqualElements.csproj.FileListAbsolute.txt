@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\net8.0\07.MaxSequenceOfEqualElements.exe
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\net8.0\07.MaxSequenceOfEqualElements.deps.json
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\net8.0\07.MaxSequenceOfEqualElements.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\net8.0\07.MaxSequenceOfEqualElements.dll
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\net8.0\07.MaxSequenceOfEqualElements.pdb
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.dll
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\refint\07.MaxSequenceOfEqualElements.dll
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.pdb
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\ref\07.MaxSequenceOfEqualElements.dll
