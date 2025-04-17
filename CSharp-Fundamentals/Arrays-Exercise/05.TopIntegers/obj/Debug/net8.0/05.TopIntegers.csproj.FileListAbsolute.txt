@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.exe
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.deps.json
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.dll
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.pdb
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.dll
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\obj\Debug\net8.0\refint\05.TopIntegers.dll
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.pdb
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\Arrays-Exercise\05.TopIntegers\obj\Debug\net8.0\ref\05.TopIntegers.dll
