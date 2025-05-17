@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.exe
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.deps.json
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.dll
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.pdb
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.dll
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\refint\10.MultiplyEvensByOdds.dll
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.pdb
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\net8.0\ref\10.MultiplyEvensByOdds.dll

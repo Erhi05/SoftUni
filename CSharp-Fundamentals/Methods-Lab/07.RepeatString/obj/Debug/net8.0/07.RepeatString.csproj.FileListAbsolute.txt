@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\net8.0\07.RepeatString.exe
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\net8.0\07.RepeatString.deps.json
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\net8.0\07.RepeatString.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\net8.0\07.RepeatString.dll
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\net8.0\07.RepeatString.pdb
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.dll
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\net8.0\refint\07.RepeatString.dll
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.pdb
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\net8.0\07.RepeatString.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\net8.0\ref\07.RepeatString.dll
