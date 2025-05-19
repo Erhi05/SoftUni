@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE03462-6991-40ED-BA80-B02A4799C96E}|11.ArrayManipulator\\11.ArrayManipulator.csproj|d:\\softuni\\csharp-fundamentals\\methods-exercise\\11.arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE03462-6991-40ED-BA80-B02A4799C96E}|11.ArrayManipulator\\11.ArrayManipulator.csproj|solutionrelative:11.arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F89050-57D8-4CFB-8DB2-27B64354D73F}|10.TopNumber\\10.TopNumber.csproj|d:\\softuni\\csharp-fundamentals\\methods-exercise\\10.topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F89050-57D8-4CFB-8DB2-27B64354D73F}|10.TopNumber\\10.TopNumber.csproj|solutionrelative:10.topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA8700-B968-4785-827C-787CEB706BF1}|09.PalindromeIntegers\\09.PalindromeIntegers.csproj|d:\\softuni\\csharp-fundamentals\\methods-exercise\\09.palindromeintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AA8700-B968-4785-827C-787CEB706BF1}|09.PalindromeIntegers\\09.PalindromeIntegers.csproj|solutionrelative:09.palindromeintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A27325-32B0-4698-B1D4-FEBF4930BAFD}|08.FactorialDivision\\08.FactorialDivision.csproj|d:\\softuni\\csharp-fundamentals\\methods-exercise\\08.factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A27325-32B0-4698-B1D4-FEBF4930BAFD}|08.FactorialDivision\\08.FactorialDivision.csproj|solutionrelative:08.factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3475F1F-715C-48BC-B35E-ED8BA2658F22}|07.NxNMatrix\\07.NxNMatrix.csproj|d:\\softuni\\csharp-fundamentals\\methods-exercise\\07.nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3475F1F-715C-48BC-B35E-ED8BA2658F22}|07.NxNMatrix\\07.NxNMatrix.csproj|solutionrelative:07.nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398516FE-E350-4CCA-882D-5DEBE593BE80}|06.MiddleCharacters\\06.MiddleCharacters.csproj|d:\\softuni\\csharp-fundamentals\\methods-exercise\\06.middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398516FE-E350-4CCA-882D-5DEBE593BE80}|06.MiddleCharacters\\06.MiddleCharacters.csproj|solutionrelative:06.middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0264A5-4154-4408-A1DF-D2030EE8E11D}|05.AddAndSubtract\\05.AddAndSubtract.csproj|d:\\softuni\\csharp-fundamentals\\methods-exercise\\05.addandsubtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0264A5-4154-4408-A1DF-D2030EE8E11D}|05.AddAndSubtract\\05.AddAndSubtract.csproj|solutionrelative:05.addandsubtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F3D27D-ADD6-4912-BA8F-E329E6847758}|04.PasswordValidator\\04.PasswordValidator.csproj|d:\\softuni\\csharp-fundamentals\\methods-exercise\\04.passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F3D27D-ADD6-4912-BA8F-E329E6847758}|04.PasswordValidator\\04.PasswordValidator.csproj|solutionrelative:04.passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95B131-B5A2-484D-8BD9-C1C6C5CD8340}|03.CharactersInRange\\03.CharactersInRange.csproj|d:\\softuni\\csharp-fundamentals\\methods-exercise\\03.charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F95B131-B5A2-484D-8BD9-C1C6C5CD8340}|03.CharactersInRange\\03.CharactersInRange.csproj|solutionrelative:03.charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CDC93F-643C-4861-81DE-EFE1CE2C66EF}|02.VowelsCount\\02.VowelsCount.csproj|d:\\softuni\\csharp-fundamentals\\methods-exercise\\02.vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CDC93F-643C-4861-81DE-EFE1CE2C66EF}|02.VowelsCount\\02.VowelsCount.csproj|solutionrelative:02.vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C72620E-0EA2-425D-B078-09C0F69313E4}|01. SmallestOfThreeNumbers\\01. SmallestOfThreeNumbers.csproj|d:\\softuni\\csharp-fundamentals\\methods-exercise\\01. smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C72620E-0EA2-425D-B078-09C0F69313E4}|01. SmallestOfThreeNumbers\\01. SmallestOfThreeNumbers.csproj|solutionrelative:01. smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\11.ArrayManipulator\\Program.cs",
+              "RelativeDocumentMoniker": "11.ArrayManipulator\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\11.ArrayManipulator\\Program.cs",
+              "RelativeToolTip": "11.ArrayManipulator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:05:14.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\10.TopNumber\\Program.cs",
+              "RelativeDocumentMoniker": "10.TopNumber\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\10.TopNumber\\Program.cs*",
+              "RelativeToolTip": "10.TopNumber\\Program.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:02:40.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\09.PalindromeIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "09.PalindromeIntegers\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\09.PalindromeIntegers\\Program.cs*",
+              "RelativeToolTip": "09.PalindromeIntegers\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:58:59.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\08.FactorialDivision\\Program.cs",
+              "RelativeDocumentMoniker": "08.FactorialDivision\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\08.FactorialDivision\\Program.cs*",
+              "RelativeToolTip": "08.FactorialDivision\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:51:17.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\07.NxNMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "07.NxNMatrix\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\07.NxNMatrix\\Program.cs",
+              "RelativeToolTip": "07.NxNMatrix\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:46:11.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\06.MiddleCharacters\\Program.cs",
+              "RelativeDocumentMoniker": "06.MiddleCharacters\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\06.MiddleCharacters\\Program.cs",
+              "RelativeToolTip": "06.MiddleCharacters\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA/wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:43:32.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\05.AddAndSubtract\\Program.cs",
+              "RelativeDocumentMoniker": "05.AddAndSubtract\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\05.AddAndSubtract\\Program.cs",
+              "RelativeToolTip": "05.AddAndSubtract\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:39:09.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\04.PasswordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "04.PasswordValidator\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\04.PasswordValidator\\Program.cs",
+              "RelativeToolTip": "04.PasswordValidator\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv1AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:36:08.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\03.CharactersInRange\\Program.cs",
+              "RelativeDocumentMoniker": "03.CharactersInRange\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\03.CharactersInRange\\Program.cs",
+              "RelativeToolTip": "03.CharactersInRange\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:32:27.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\02.VowelsCount\\Program.cs",
+              "RelativeDocumentMoniker": "02.VowelsCount\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\02.VowelsCount\\Program.cs",
+              "RelativeToolTip": "02.VowelsCount\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:29:16.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\01. SmallestOfThreeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. SmallestOfThreeNumbers\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Methods-Exercise\\01. SmallestOfThreeNumbers\\Program.cs",
+              "RelativeToolTip": "01. SmallestOfThreeNumbers\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:25:10.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

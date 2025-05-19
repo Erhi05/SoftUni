@@ -1,0 +1,15 @@
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.exe
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.deps.json
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.runtimeconfig.json
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.dll
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.pdb
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.AssemblyInfoInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.AssemblyInfo.cs
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.sourcelink.json
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.dll
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\obj\Debug\net8.0\refint\06.MiddleCharacters.dll
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.pdb
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.genruntimeconfig.cache
+D:\SoftUni\CSharp-Fundamentals\Methods-Exercise\06.MiddleCharacters\obj\Debug\net8.0\ref\06.MiddleCharacters.dll
