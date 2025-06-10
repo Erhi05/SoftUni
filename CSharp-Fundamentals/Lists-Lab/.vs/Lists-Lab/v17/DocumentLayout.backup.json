@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6D3B83-0F90-4C66-97C0-718543996D1C}|07.ListManipulationAdvanced\\07.ListManipulationAdvanced.csproj|d:\\softuni\\csharp-fundamentals\\lists-lab\\07.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6D3B83-0F90-4C66-97C0-718543996D1C}|07.ListManipulationAdvanced\\07.ListManipulationAdvanced.csproj|solutionrelative:07.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368431A1-7327-4479-9392-04A311B7516B}|06.ListManipulationBasics\\06.ListManipulationBasics.csproj|d:\\softuni\\csharp-fundamentals\\lists-lab\\06.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368431A1-7327-4479-9392-04A311B7516B}|06.ListManipulationBasics\\06.ListManipulationBasics.csproj|solutionrelative:06.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1BC33B-BEAF-4AA4-882E-0AD7F83FD9D2}|05.RemoveNegativesAndReverse\\05.RemoveNegativesAndReverse.csproj|d:\\softuni\\csharp-fundamentals\\lists-lab\\05.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1BC33B-BEAF-4AA4-882E-0AD7F83FD9D2}|05.RemoveNegativesAndReverse\\05.RemoveNegativesAndReverse.csproj|solutionrelative:05.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BD8B6E-F2FC-4765-A639-8928DE2D3303}|04.ListOfProducts\\04.ListOfProducts.csproj|d:\\softuni\\csharp-fundamentals\\lists-lab\\04.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BD8B6E-F2FC-4765-A639-8928DE2D3303}|04.ListOfProducts\\04.ListOfProducts.csproj|solutionrelative:04.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A4F85B-6AAE-41C5-8A74-6D7B5ECC28EB}|03.MergingLists\\03.MergingLists.csproj|d:\\softuni\\csharp-fundamentals\\lists-lab\\03.merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A4F85B-6AAE-41C5-8A74-6D7B5ECC28EB}|03.MergingLists\\03.MergingLists.csproj|solutionrelative:03.merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832707C4-AC60-4426-BC2B-5FAAEFBFAB6E}|02.Gauss\u0027Trick\\02.Gauss\u0027Trick.csproj|d:\\softuni\\csharp-fundamentals\\lists-lab\\02.gauss\u0027trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832707C4-AC60-4426-BC2B-5FAAEFBFAB6E}|02.Gauss\u0027Trick\\02.Gauss\u0027Trick.csproj|solutionrelative:02.gauss\u0027trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019BA763-67B5-4C3C-BE9E-D34682058C29}|01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj|d:\\softuni\\csharp-fundamentals\\lists-lab\\01.sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019BA763-67B5-4C3C-BE9E-D34682058C29}|01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj|solutionrelative:01.sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\07.ListManipulationAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "07.ListManipulationAdvanced\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\07.ListManipulationAdvanced\\Program.cs",
+              "RelativeToolTip": "07.ListManipulationAdvanced\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:44:54.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\06.ListManipulationBasics\\Program.cs",
+              "RelativeDocumentMoniker": "06.ListManipulationBasics\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\06.ListManipulationBasics\\Program.cs*",
+              "RelativeToolTip": "06.ListManipulationBasics\\Program.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:42:28.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\05.RemoveNegativesAndReverse\\Program.cs",
+              "RelativeDocumentMoniker": "05.RemoveNegativesAndReverse\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\05.RemoveNegativesAndReverse\\Program.cs*",
+              "RelativeToolTip": "05.RemoveNegativesAndReverse\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:39:32.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\04.ListOfProducts\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListOfProducts\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\04.ListOfProducts\\Program.cs*",
+              "RelativeToolTip": "04.ListOfProducts\\Program.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:34:19.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\03.MergingLists\\Program.cs",
+              "RelativeDocumentMoniker": "03.MergingLists\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\03.MergingLists\\Program.cs*",
+              "RelativeToolTip": "03.MergingLists\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:13:38.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\02.Gauss\u0027Trick\\Program.cs",
+              "RelativeDocumentMoniker": "02.Gauss\u0027Trick\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\02.Gauss\u0027Trick\\Program.cs*",
+              "RelativeToolTip": "02.Gauss\u0027Trick\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:04:50.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\01.SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SumAdjacentEqualNumbers\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp-Fundamentals\\Lists-Lab\\01.SumAdjacentEqualNumbers\\Program.cs*",
+              "RelativeToolTip": "01.SumAdjacentEqualNumbers\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:48:52.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
